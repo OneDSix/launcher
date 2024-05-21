@@ -1,0 +1,44 @@
+nav * {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    padding: 8px 16px;
+}
+
+nav h2 {
+	/*
+	somehow this makes it look ok.
+	if you obverse it it will break and refuse to work.
+	do not attempt to observe.
+	*/
+    padding: 8px 16px;
+	padding-bottom: 0%;
+	font-size: larger;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+nav ul li a:hover {
+    background-color: #575757;
+}
+
+.logo {
+	height: 11vmin;
+	pointer-events: none;
+	text-align: center;
+}
+
+.todo {
+	display: none;
+}

@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+		// Editor
+		"editorconfig.editorconfig",
+		"aaron-bond.better-comments",
+
+		// React
+		"msjsdiag.vscode-react-native",
+		"burkeholland.simple-react-snippets",
+		"ms-vscode.vscode-typescript-next",
+
+		// Rust
+		"tamasfe.even-better-toml",
+		"1yib.rust-bundle",
+		"dustypomerleau.rust-syntax",
+		"rust-lang.rust-analyzer",
+		"serayuzgur.crates",
+
+		// Compiling
+		"tauri-apps.tauri-vscode",
+	]
+}
